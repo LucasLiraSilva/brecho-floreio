@@ -7,6 +7,10 @@ Projeto de um site de vendas de roupas de brechó, baseado na loja do instagram 
 </p>
 
 <p align="center">
+link do site via Vercel -> <a href="brecho-floreio-cmv8nb06t-lucaslirasilva.vercel.app" target="_blank">brecho-floreio</a>
+</p>
+
+<p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
